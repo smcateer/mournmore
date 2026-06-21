@@ -40,17 +40,17 @@ The practical purpose is to let editors such as VS Code use Radon for comments b
 Releases are not automated at this stage. Manual release process:
 
 1. open latest build action artefact
-  * go to "Actions"
-  * select latest build
-  * download its artefact
-3. extract TTF files on local machine
-4. manually release
-  * go to "Releases"
-  * click "Draft a new release"
-  * create a new tag by incementing the version
-  * write any release notes
-  * attach the TTF files
-  * click "Publish release"
+    * go to "Actions"
+    * select latest build
+    * download its artefact
+2. extract TTF files on local machine
+3. manually release
+    * go to "Releases"
+    * click "Draft a new release"
+    * create a new tag by incementing the version
+    * write any release notes
+    * attach the TTF files
+    * click "Publish release"
 
 ## Licence, copyright &c.
 
